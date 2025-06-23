@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/shiftedreality/scaffolder-sf/
+    type: markup
+
+folders:
+  /products/: /products/default
